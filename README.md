@@ -10,9 +10,10 @@ IMPORTANT THINGS THAT NEED TO BE SCRIPTED
  -Customized Weapon Configurations based on their real life models.
  -Vehicle Turrets(Grenade Launchers, .30 Cal Machine Gun(2x M4) and MG-4 Gatling Gun(1x Minigun)
  -You can only have one Secondary Weapon(Desert Eagle,Silenced Desert Eagle), one Primary Weapon(Carbine Rifle, Assault Rifle, Battle Rifle, Submachine Gun) and a Special Weapon(Infared Goggles,Night Vision Goggles,Parachute,Binoculars) and a Knife or Katana.
- -Artillery**Complete**
+ -Artillery*Complete*
  -Weapon Extensions: These will be found at random in supply boxes with a weapon. They include Optical Scope(5% accuracy increase), Iron Sight(2% accuracy increase), Grenade Launcher(Can shoot your grenades with increased range).
  -Add a smoke grenade.
+ -Add a time bomb*Complete*
  
 
 *MEDICAL SYSTEM:
